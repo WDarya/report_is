@@ -1,5 +1,9 @@
-
-
+---
+title: "README"
+author: "Belaya Darya"
+date: "2025-01-09"
+output: html_document
+---
 # Практическая работа 0
 
 Подготовка воспроизводимых отчетов
